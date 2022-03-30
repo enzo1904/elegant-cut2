@@ -29,6 +29,10 @@ body{
 
 
 }
+
+#mainNav{
+    font-size: 23px;
+}
 .form{
     background-color: aliceblue;
     width: 100%;
