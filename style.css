@@ -148,6 +148,39 @@ a{
     
 }
 
+#informacion{
+    height: 60vh;
+}
+
+.contact{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap:wrap ;
+    padding: 10px;
+    border-radius: 10px;
+    background: #fff;
+    text-align: center;
+    font-size: x-large;
+
+}
+
+.mapa{
+    width: 100%;
+    height: auto;
+    flex: 50%;
+
+}
+
+.info{
+
+   width: 100%;
+    height: auto;
+    flex: 50%;
+
+}
+
 main {
 	max-width: 800px;
 	width: 90%;
