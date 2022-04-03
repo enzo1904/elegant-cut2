@@ -30,6 +30,14 @@ body{
 
 }
 
+#inicio{
+    background:  url(img/1371357.jpg) no-repeat center fixed ;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
 #mainNav{
     font-size: 23px;
 }
