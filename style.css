@@ -29,6 +29,17 @@ body{
 
 
 }
+hr{
+    border:1px solid var(--light);
+    opacity: 0.8;
+    margin:1rem 0;
+}
+#slider{
+    width:80%;
+    height:200px;
+    object-fit:contain;
+    padding-bottom:1rem;
+}
 
 #inicio{
     background:  url(img/1371357.jpg) no-repeat center fixed ;
