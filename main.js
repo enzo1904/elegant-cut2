@@ -108,6 +108,17 @@ formulario.addEventListener('submit', (e) => {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 //ruleta de servicios
 $(document).ready(function(){
     $('.food-slider').slick({
