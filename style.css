@@ -117,7 +117,13 @@ hr{
     font-weight: 400;
 }
 
+.error{
+    color: darkred;
+}
 
+input.error{
+    border: 1px solid darkred;
+}
 
 
 @media (max-widht:450px){
@@ -619,6 +625,13 @@ section.top-products .food-slider .food-card .product-image img{
     height: auto;
 
     
+}
+.formulario_ct{
+
+    text-align: center;
+
+
+  
 }
 
 
