@@ -568,7 +568,7 @@
     }
     
     .form-register {
-        width: 1250px;
+        width: 100%;
         background: #6e6e6e;
         padding: 50px;
         margin: auto;
@@ -782,7 +782,10 @@
         grid-auto-columns: 100%;
     }
     
-    #btn_contacto1 {
+    #formulario_ct label{
+        font-size: 25px;
+    }
+    #btn_contacto {
         height: 45px;
         line-height: 45px;
         width: 24%;
